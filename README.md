@@ -11,13 +11,12 @@ O objetivo principal é aumentar a produtividade de analistas de dados e cientis
 
 ---
 
-## 📸 Demonstração
 <img width="1358" height="630" alt="image" src="https://github.com/user-attachments/assets/575e7e18-7a5c-4115-8c71-3676e873243a" />
 
 
 ---
 
-## 🌟 Funcionalidades
+## ⚙️ Funcionalidades
 
 O assistente utiliza o modelo de linguagem de última geração **Gemini 2.0 Flash** para oferecer:
 
