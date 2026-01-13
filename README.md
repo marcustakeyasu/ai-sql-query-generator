@@ -16,7 +16,7 @@ O objetivo principal é aumentar a produtividade de analistas de dados e cientis
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 O assistente utiliza o modelo de linguagem de última geração **Gemini 2.0 Flash** para oferecer:
 
@@ -27,7 +27,7 @@ O assistente utiliza o modelo de linguagem de última geração **Gemini 2.0 Fla
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **Linguagem:** [Python 3.12](https://www.python.org/)
 * **Interface Web:** [Streamlit](https://streamlit.io/)
@@ -37,7 +37,7 @@ O assistente utiliza o modelo de linguagem de última geração **Gemini 2.0 Fla
 
 ---
 
-## ⚡ Performance e Boas Práticas
+## Performance e Boas Práticas
 
 Um dos diferenciais deste assistente é a priorização de queries otimizadas. O modelo está instruído a utilizar:
 
@@ -47,7 +47,7 @@ Um dos diferenciais deste assistente é a priorização de queries otimizadas. O
 
 ---
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```text
 ├── dsa_ai_app.py           # Aplicação principal (Streamlit)
